@@ -1,0 +1,7 @@
+ul,li {
+    list-style-type: none;
+    text-align:left;
+   padding: 0 !important;
+   margin:0; 
+}
+

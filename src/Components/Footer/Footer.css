@@ -1,0 +1,53 @@
+.Footer-wrapper{
+    text-align: center;
+    /* font-family: proxima-nova, sans-serif; */
+   
+    background: #FAFBFC;
+   color: rgb(17, 16, 16);
+   font-size:medium;
+   width: 1080px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 2px 0px;
+    margin:0 auto;
+    
+
+ } 
+ .color-grey{
+    background: #FAFBFC;
+ }
+ .shop{
+     font-size: 12px;
+  font-weight: 600;
+     color: rgb(17, 16, 16);
+ }
+ 
+ .abcd{
+     color: royalblue;
+     margin-left: 0px;
+ }
+ .Footer{
+    background: #FAFBFC;
+
+ }
+ .Original{
+     text-align:left;
+     display: flex;
+    color: #696b79;
+ }
+ .Header-logo{display: inline-block;
+    
+    margin-left: -10px;
+    margin-right: 10px;
+    width: 47.5px;
+    height: 40px;
+}
+.bold{
+    font-weight: 550;
+    color: black;
+}
+.Imgcontainer{
+    display: inline-block;
+   
+    
+}

@@ -1,0 +1,61 @@
+.header-wrapper {
+  text-align: center;
+  /* font-family: proxima-nova, sans-serif; */
+
+  background-color: rgb(233, 244, 251);
+  color: rgb(17, 16, 16);
+  font-size: medium;
+  width: 100%;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 2px;
+}
+.header-wrapperII ul {
+  display: inline-block;
+
+  text-decoration: none;
+}
+
+.header-wrapperII ul li {
+  padding: 0px 20px;
+  display: inline-block;
+  margin: 0px 10px;
+  text-decoration: none;
+}
+.header-wrapperII ul li a {
+  color: rgb(12, 8, 8);
+  font-weight: 200;
+  text-decoration: none;
+}
+.myntra-logo {
+  padding-right: 25px;
+  padding-left: 50px;
+}
+.containers {
+  display: inline-block;
+  text-align: right;
+  float: right;
+  /* margin-right: 10px; */
+  padding-top: 20px;
+  padding-right: 50px;
+  display: flex;
+}
+.Icons {
+  display: inline-block;
+  padding-right: 100px;
+}
+
+.hhh {
+  display: flex;
+  justify-content: space-between;
+  width: 130px;
+  cursor: pointer;
+}
+.pqrs {
+  cursor: pointer;
+}
+.Header_Categories {
+  display: inline;
+  padding-top: 50px;
+  vertical-align: 40px;
+}
